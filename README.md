@@ -1,6 +1,3 @@
-# Digi-Menu
-
-## Digital Menu Project Based on Laravel
 
 <div dir="ltr">
 
